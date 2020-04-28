@@ -10,7 +10,7 @@ public class Calculator
        return 0;
    }
    public int subtract(int a,int b){
-
+       System.out.println("subtracing numbers"+a +" and "+b);
        return a-b;
    }
    public int multiply(int a,int b){
