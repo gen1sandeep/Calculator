@@ -10,7 +10,8 @@ public class Calculator
        return 0;
    }
    public int subtract(int a,int b){
-       return 0;
+
+       return a-b;
    }
    public int multiply(int a,int b){
        return 0;
